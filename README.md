@@ -24,7 +24,7 @@ To get started, you’ll need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Idralien/MiniShell.git
    cd minishell
 
 Compile the project:
